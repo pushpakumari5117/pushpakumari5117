@@ -17,7 +17,9 @@
 
 - 🌱 I’m currently learning **JavaScript, React**
 
-- 📫 How to reach me **pushpakumari5117@gmail.com**
+- 📫 How to reach me
+   -[Email](mailto:pushpakumari5117@gmail.com)
+   -[Linkedin](https://www.linkedin.com/in/pushpa-kumari-62491516a/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
