@@ -46,11 +46,6 @@
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
   <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="github" width="40" height="40"/> </a>  
-  <a href="https://www.office.com/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/888/888883.svg?token=exp=1617606013~hmac=b6b5836c1db0b2599d9ca8ffbddb100a" alt="microsoft word" width="40" height="40"/> </a>  
-  <a href="https://www.office.com/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/732/732220.svg?token=exp=1617605976~hmac=25d840148c1ffd528c27872834aa6f59" alt="microsoft excel" width="40" height="40"/> </a>  
-  <a href="https://www.office.com/" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/888/888874.svg?token=exp=1617606047~hmac=b9539d74c2d4ac828e1a4e382ea6c005" alt="microsoft powerpoint" width="40" height="40"/> </a>  
-  <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/windows-10.png" alt="microsft windows" width="40" height="40"/> </a>  
-  <a href="https://atom.io/" target="_blank"> <img src="https://img.icons8.com/emoji/48/000000/atom-symbol-emoji.png" alt="atom" width="40" height="40"/> </a>  
   </p>
     
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpakumari5117&show_icons=true&locale=en&layout=compact" alt="pushpakumari5117" /></p>
